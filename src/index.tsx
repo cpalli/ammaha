@@ -19,7 +19,6 @@ app.get('/', (c) => {
           <nav class="nav primary-nav">
             <ul>
               <li><a href="mailto:contact@ammaha.com">contact</a></li>
-              <li><a href="about.html">About</a></li>
             </ul>
           </nav>
       </header>
